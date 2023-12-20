@@ -1,0 +1,25 @@
+.navbar-brand-lg {
+  color: #FC3314;
+  font-weight: bold;
+}
+
+.nav-link-lg {
+  color: var(--Dark, #1F1F1F);
+  font-weight: 500;
+  width: 120px;
+ 
+}
+
+@media (min-width: 992px) {
+    .navbar-brand-lg {
+      font-size: 2rem; /* Adjust the font size as needed */
+    }
+  
+    .nav-link-lg {
+      font-size: 1.2rem;
+      
+font-style: normal;
+font-weight: 500;
+line-height: 130%; /* 23.4px */
+    }
+  }

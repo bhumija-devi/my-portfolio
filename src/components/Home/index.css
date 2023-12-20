@@ -1,0 +1,61 @@
+.full-stack-head{
+font-family: Montserrat;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 30px */
+align-self: stretch;
+color: #1F1F1F;
+}
+.hi-there-head{
+    color: var(--Dark, #1F1F1F);
+font-family: Montserrat;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%; /* 72px */
+}
+.name-head{
+    color: var(--Red, #FC3314);
+font-family: Montserrat;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 150%;
+}
+.welcome-dis{
+    color: var(--Dark, #1F1F1F);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+align-self: stretch;
+line-height: 150%; /* 24px */
+}
+.res-btn{
+    display: flex;
+padding: 12px 56px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+background: var(--Dark, #1F1F1F);
+margin-right: 15px;
+}
+
+.port-btn{
+    display: flex;
+width: 177px;
+padding: 12px 36px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+border: 1px solid var(--Dark, #1F1F1F);
+background: #FFF;
+color: #1F1F1F;
+}
+
+.btn-con{
+    display: flex;
+    flex-direction: row;
+    
+}
